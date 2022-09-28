@@ -5,8 +5,9 @@ This is a informational bot application developed for education related to give 
 ## project link:
 
 ## project title: MS_Dhoni
-        
-## project description  :                                                                                                                                                  - I have created a informational bot named "MS_Dhoni" using Html and services like QnA maker, web app bot. It helps the user to finds information about ms.dhoni ; ms.dhoni personal and professional information. In this website I make five pages i.e; Home, About, F.A.Q, chatbot.It's look likes a proffestional bot. I am trying to solve the real world problem like in these days we are searching for good and genuine web site, apps etc.for information here and there. so I make a bot where I try to give every detail of ms.dhoni. my project helps both learns and explorers like for learners I provided every details i.e; history, developer (s), services etc... and for explorers. I gave website links and everything there in the bot to know more to create, build, deploy etc ...
+
+
+## project description  :                                                                                                                                                      I have created a informational bot named "MS_Dhoni" using Html and services like QnA maker, web app bot. It helps the user to finds information about ms.dhoni ;      ms.dhoni personal and professional information. In this website I make five pages i.e; Home, About, F.A.Q, chatbot.It's look likes a proffestional bot. I am trying to solve the real world problem like in these days we are searching for good and genuine web site, apps etc.for information here and there. so I make a bot where I try to give every detail of ms.dhoni. my project helps both learns and explorers like for learners I provided every details i.e; history, developer (s), services etc... and for explorers. I gave website links and everything there in the bot to know more to create, build, deploy etc ...
 
 ## Features and functionalities :
 - Interactive and responsive UI
