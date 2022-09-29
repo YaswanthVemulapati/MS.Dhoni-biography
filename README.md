@@ -2,7 +2,7 @@
 This is a informational bot application developed for education related to give information about MS.Dhoni
 ### This web based informational bot application has been developed for the acomplishment of future ready talent intrenship program launched by microsoft, future skil prime, Quess,GitHub,Ey.
 
-## project link:
+## project link:https://sites.google.com/view/ms-dhoni-bio-azure-website/home
 
 ## project title: MS_Dhoni
 
