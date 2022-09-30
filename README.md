@@ -29,21 +29,21 @@ This is a informational bot application developed for education related to give 
 
 ## Screenshorts:
 ### Home Page 
-![homepage]()
+![homepage](https://user-images.githubusercontent.com/113162147/193209314-404aa8e8-93ff-4df2-a261-d9ac65463ffd.jpeg)
 
-### Gallery Page
+###
 ![gallery page]()
 
-### About Chat Bot 
+### 
 ![About chat bot]()
 
-### About Page
+### 
 ![about page]()
 
-### FAQ Page
+### 
 ![Screenshot 2022-09-09 173108]()
 
-### Chat Bot Page
+### 
 ![chat bot page]()
 
 ### Contact Page
