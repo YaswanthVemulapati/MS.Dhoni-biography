@@ -38,13 +38,12 @@ This is a informational bot application developed for education related to give 
 (https://user-images.githubusercontent.com/113162147/193209580-9b70f231-7a87-4dc8-b0b8-bb23b25c7652.jpeg)
 
 ### 
-()
+(https://user-images.githubusercontent.com/113162147/193209588-b9a59591-7dee-495a-ba03-21735dafb537.jpeg)
 
 ### 
 ()
 
-### 
-()
+
 
 ### Contact Page
 ![contact page]()
