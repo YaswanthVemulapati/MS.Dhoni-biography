@@ -41,22 +41,13 @@ This is a informational bot application developed for education related to give 
 (https://user-images.githubusercontent.com/113162147/193209588-b9a59591-7dee-495a-ba03-21735dafb537.jpeg)
 
 ### 
-()
+(https://user-images.githubusercontent.com/113162147/193209596-fec8eff8-a7f5-47eb-a532-4f3822cb7156.jpeg)
 
 
 
-### Contact Page
-![contact page]()
 
 
 
-# Tech Stack 💻
 
-## Languages and Azure services used in my bot:-
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- QnA Maker
-- Web App Bot
-- JavaScript
 
