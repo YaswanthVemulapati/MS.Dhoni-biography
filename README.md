@@ -32,19 +32,19 @@ This is a informational bot application developed for education related to give 
 ![homepage](https://user-images.githubusercontent.com/113162147/193209314-404aa8e8-93ff-4df2-a261-d9ac65463ffd.jpeg)
 
 ###
-![gallery page]()
+(https://user-images.githubusercontent.com/113162147/193209577-4504bf37-fc60-4f99-b90f-1762dc23cd4d.jpeg)
 
 ### 
-![About chat bot]()
+()
 
 ### 
-![about page]()
+()
 
 ### 
-![Screenshot 2022-09-09 173108]()
+()
 
 ### 
-![chat bot page]()
+()
 
 ### Contact Page
 ![contact page]()
