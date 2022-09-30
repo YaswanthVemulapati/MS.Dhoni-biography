@@ -32,16 +32,16 @@ This is a informational bot application developed for education related to give 
 ![homepage](https://user-images.githubusercontent.com/113162147/193209314-404aa8e8-93ff-4df2-a261-d9ac65463ffd.jpeg)
 
 ###
-(https://user-images.githubusercontent.com/113162147/193209577-4504bf37-fc60-4f99-b90f-1762dc23cd4d.jpeg)
+![homepage](https://user-images.githubusercontent.com/113162147/193209577-4504bf37-fc60-4f99-b90f-1762dc23cd4d.jpeg)
 
 ### 
-(https://user-images.githubusercontent.com/113162147/193209580-9b70f231-7a87-4dc8-b0b8-bb23b25c7652.jpeg)
+![homepage](https://user-images.githubusercontent.com/113162147/193209580-9b70f231-7a87-4dc8-b0b8-bb23b25c7652.jpeg)
 
 ### 
-(https://user-images.githubusercontent.com/113162147/193209588-b9a59591-7dee-495a-ba03-21735dafb537.jpeg)
+![homepage](https://user-images.githubusercontent.com/113162147/193209588-b9a59591-7dee-495a-ba03-21735dafb537.jpeg)
 
 ### 
-(https://user-images.githubusercontent.com/113162147/193209596-fec8eff8-a7f5-47eb-a532-4f3822cb7156.jpeg)
+![homepage](https://user-images.githubusercontent.com/113162147/193209596-fec8eff8-a7f5-47eb-a532-4f3822cb7156.jpeg)
 
 
 
