@@ -29,25 +29,25 @@ This is a informational bot application developed for education related to give 
 
 ## Screenshorts:
 ### Home Page 
-![homepage](https://user-images.githubusercontent.com/110820099/189345964-1b4ac1a3-89f9-41ea-acfa-8eb6a62f4fde.png)
+![homepage]()
 
 ### Gallery Page
-![gallery page](https://user-images.githubusercontent.com/110820099/189346354-4d70d42b-c219-4091-bba1-0d018ea0a39e.png)
+![gallery page]()
 
 ### About Chat Bot 
-![About chat bot](https://user-images.githubusercontent.com/110820099/189346579-caae4531-311d-4d29-b627-9dceb0001e40.png)
+![About chat bot]()
 
 ### About Page
-![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
+![about page]()
 
 ### FAQ Page
-![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
+![Screenshot 2022-09-09 173108]()
 
 ### Chat Bot Page
-![chat bot page](https://user-images.githubusercontent.com/110820099/189347166-48cf0e3a-7a00-4b54-ae6f-b105afe035d4.png)
+![chat bot page]()
 
 ### Contact Page
-![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
+![contact page]()
 
 
 
